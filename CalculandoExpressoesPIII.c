@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main() {
     float a = 1.5;
     int b = 4, c = 2 ,d = 3;
     
